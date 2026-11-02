@@ -1,2 +1,3 @@
 print("Hello Git")
-print("Iam learning git and GitHub")
+print("I am learning Git and GitHub")
+print("Git is a version control system")
